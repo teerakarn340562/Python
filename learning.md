@@ -33,3 +33,13 @@
 // หารปัดเศษ
 &= AND แปลงเป็นฐาน2
 |= OR แปลงเป็นฐาน 2
+#### คำสั่ง git ####
+    git config --global user.name "teerakarn340562"
+    git config --global user.email "teerakarn.ha@rmuti.ac.th"
+    git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/teerakarn340562/Python.git
+git push -u origin main 
+#### 
